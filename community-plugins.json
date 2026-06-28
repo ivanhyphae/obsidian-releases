@@ -36237,5 +36237,12 @@
     "author": "river",
     "description": "Export local Codex archived sessions to Markdown notes grouped by workspace. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "nicklennonliu/obsidian-codex-session-archive"
+  },
+  {
+    "id": "yaml-editor",
+    "name": "YAML Editor",
+    "author": "Ivan Heitmann",
+    "description": "A structured YAML editor for Obsidian with schema-aware completions, smart indentation, folding, diagnostics, inline value quoting, and a dedicated editing surface for standalone .yaml / .yml files — all without reformatting your text.",
+    "repo": "idheitmann/obsidian-yaml-editor"
   }
 ]
